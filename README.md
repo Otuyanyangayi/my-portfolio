@@ -1,6 +1,6 @@
- My Port forlio
+# My Port forlio
  
-Table of Contents
+# Table of Contents
  Overview
  Built With
  Features
@@ -8,20 +8,20 @@ Table of Contents
  Acknowledgements
 
 
- Overview 
- 
+ # Overview 
+ ------------
  https://otuyanyangayi.github.io/my-portfolio/ - this is the live link to the project.
  
- This is a simple project of my portfolio. It describes the languages I am compitent in and the skills I have.
+ This is a simple project of my portfolio. It describes the languages I am compitent in and the  skills I have.
  
- Built With
+ # Built With
  This project has been bbuilt with HTML and CSS 
  
- Features 
+ # Features 
  --------
  
- Contact 
+ # Contact 
  I have used social meadia icons from googleimages.com 
  
- Acknowledgements 
+ # Acknowledgements 
  ---------------
