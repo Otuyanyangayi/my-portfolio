@@ -1,18 +1,18 @@
-# My Port forlio
+# My Portfolio
  
 # Table of Contents
- Overview
- Built With
- Features
- Contact
- Acknowledgements
+ * Overview
+ * Built With
+ * Features
+ * Contact
+ * Acknowledgements
 
 
  # Overview 
  ------------
- https://otuyanyangayi.github.io/my-portfolio/ - this is the live link to the project.
+* https://otuyanyangayi.github.io/my-portfolio/ - this is the live link to the project.
  
- This is a simple project of my portfolio. It describes the languages I am compitent in and the  skills I have.
+ * This is a simple project of my portfolio. It describes the languages I am compitent in and the  skills I have.
  
  # Built With
  This project has been bbuilt with HTML and CSS 
