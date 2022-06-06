@@ -10,7 +10,6 @@ body {
 
 }
 
-
 .container {
     padding: 5% 10%;
     text-align: center;
@@ -33,9 +32,6 @@ h2 {
 
 
 /* nav bar */
-
-
-
 nav ul {
     display: flex;
     flex-wrap: wrap;
@@ -60,7 +56,6 @@ nav a:hover {
 
 
 /* header section */
-
 header {
     background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)), url("../assets/stars.png");
     font-size: 25px;
@@ -75,12 +70,9 @@ header h1 span {
     padding-right: 10px;
 }
 
-/* header h1 span:hover {
-    color: palevioletred;
-}
-*/
 
-/* about me section */
+
+/* about */
 
 .about {
     background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)), url("../assets/stars.png");
@@ -88,10 +80,7 @@ header h1 span {
     background-attachment: fixed;
 }
 
-
-
-
-/* my skills section */
+/* my skills */
 
 .skills ul {
     align-items: center;
@@ -130,7 +119,6 @@ header h1 span {
 
 
 /* footer */
-
 .social {
     display: flex;
     justify-content: space-around;
