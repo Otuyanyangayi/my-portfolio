@@ -50,14 +50,14 @@ $(document).ready(function(){
               items: 1,
               nav: false,
           },
-         /* 600:{
+          600:{
               items: 2,
               nav: false,
           },
           1000:{
               items: 3,
               nav: false,
-          } */
+          } 
       }
   })
 })
