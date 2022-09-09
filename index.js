@@ -26,14 +26,14 @@ $(document).ready(function(){
 
   // typing animation script 
   var typed = new Typed(".typing", {
-      strings: [  "Front-End developer(React Js)", "Web Designer(Figma)", "Network Designer(Cisco)"],
+      strings: [  "Front-End developer(React Js)", "Back-end developer(Ruby on Rails)", "Network Designer(Cisco)"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
   });
 
   var typed = new Typed(".typing-2", {
-      strings: [ "Front-End developer(React Js)", "Web Designer(Figma)", "Network Designer(Cisco)"],
+      strings: [ "Front-End developer(React Js)", "Back-end developer(Ruby on Rails)", "Network Designer(Cisco)"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
