@@ -452,6 +452,7 @@ section .title::after {
 .contact .contact-content .info .sub-title {
     color: #333;
 }
+
 .contact .right form .fields {
     display: flex;
 }
@@ -512,6 +513,7 @@ footer {
     background: #111;
     padding: 20px 23px;
     color: #fff;
+    
 }
 footer span a {
     color: crimson;
@@ -520,6 +522,7 @@ footer span a {
 footer span a:hover {
     text-decoration: underline;
 }
+
 
 
 
