@@ -5,6 +5,7 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
 html {
     scroll-behavior: smooth;
 }
@@ -416,7 +417,9 @@ section .title::after {
 
 
 /* contact section styling  */
-
+i{
+    justify-content: space-around;
+}
 .contact .title::after {
     content: "Get in touch";
 }
@@ -508,6 +511,43 @@ section .title::after {
     background: none;
 }
 
+
+
+
+
+
+
+  .facebook{
+    background: #3b5998;
+  } 
+  .twitter{
+    background: #00aced;
+  } 
+  .instagram{
+    background: #bc2a8d;
+  } 
+  .google{
+    background: #dd4b39;
+  } 
+  .whatsapp{
+    background: #4dc247;
+  } 
+  .facebook div.slider{
+    background: #627aac;
+  } 
+  .twitter div.slider{
+    background: #7fd5f6;
+  } 
+  .instagram div.slider{
+    background: #dd94c6;
+  } 
+  ul li.google div.slider{
+    background: #eea59c;
+  } 
+  .whatsapp div.slider{
+    background: #82d47e;
+  } 
+  
 /* footer section styling */
 footer {
     background: #111;
